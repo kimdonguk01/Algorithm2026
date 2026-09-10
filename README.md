@@ -9,3 +9,6 @@
 
 [InsertionSorting](./homework/sketch_0910_2/sketch_0910_2.pde)
 ![Alt homework11](./homework/sketch_0910_2/homework12.jpg)
+
+[MergeSorting](./homework/sketch_0910_3/sketch_0910_3.pde)
+![Alt homework11](./homework/sketch_0910_3/homework14.jpg)
