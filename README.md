@@ -15,3 +15,6 @@
 
 [QuickSorting](./homework/sketch_0910_4/sketch_0910_4.pde)
 ![Alt homework11](./homework/sketch_0910_4/homework15.jpg)
+
+[QuickSorting](./homework/sketch_0910_5/sketch_0910_5.pde)
+![Alt homework11](./homework/sketch_0910_5/homework16.jpg)
