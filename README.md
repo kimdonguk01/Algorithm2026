@@ -12,3 +12,6 @@
 
 [MergeSorting](./homework/sketch_0910_3/sketch_0910_3.pde)
 ![Alt homework11](./homework/sketch_0910_3/homework14.jpg)
+
+[QuickSorting](./homework/sketch_0910_4/sketch_0910_4.pde)
+![Alt homework11](./homework/sketch_0910_4/homework15.jpg)
