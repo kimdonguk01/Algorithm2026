@@ -22,3 +22,6 @@
 [Sorting](./homework/sketch_01/sketch_01.pde)
 ![Alt homework11](./homework/sketch_01/01.jpg)
 
+[Sorting](./homework/sketch_02/sketch_02.pde)
+![Alt homework11](./homework/sketch_02/02.jpg)
+
