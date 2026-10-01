@@ -19,6 +19,6 @@
 [HeapSorting](./homework/sketch_0910_5/sketch_0910_5.pde)
 ![Alt homework11](./homework/sketch_0910_5/homework16.jpg)
 
-[HeapSorting](./homework/sketch_01/sketch_01.pde)
+[Sorting](./homework/sketch_01/sketch_01.pde)
 ![Alt homework11](./homework/sketch_01/01.jpg)
 
