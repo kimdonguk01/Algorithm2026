@@ -25,3 +25,6 @@
 [Sorting](./homework/sketch_02/SortAnimation.pde)
 ![Alt homework11](./homework/sketch_02/02.jpg)
 
+[BinarySearchTree](./homework/BinarySearchTree/BinarySearchTree.pde)
+![Alt homework11](./homework/BinarySearchTree/BinarySearchTree.png)
+
